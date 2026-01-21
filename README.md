@@ -9,11 +9,11 @@
 - **Аналитика данных** от Яндекс.Практикума ✅
 
 ### Активное обучение на Stepik
-- API (Application Programming Interfaces)
-- Internet Protocols (сетевые протоколы)
-- HTML и CSS (основы веб-разработки)
+- API
+- Django
+- HTML и CSS
 - Testing (тестирование ПО)
-- NoSQL (нереляционные базы данных)
+- NoSQL
 
 ## 💻 Практика и оттачивание навыков
 
