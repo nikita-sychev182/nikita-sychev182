@@ -24,18 +24,4 @@
 
 <p><strong>Стек</strong></p>
 
-<p>
-<picture><img src="./assets/python.svg" alt="Python" height="40" /></picture>&nbsp;&nbsp;
-<picture><img src="./assets/fastapi.svg" alt="FastAPI" height="40" /></picture>&nbsp;&nbsp;
-<picture><img src="./assets/django.svg" alt="Django" height="40" /></picture>&nbsp;&nbsp;
-<picture><img src="./assets/postgresql.svg" alt="PostgreSQL" height="40" /></picture>&nbsp;&nbsp;
-<picture><img src="./assets/docker.svg" alt="Docker" height="40" /></picture>
-</p>
-
-<p>
-<picture><img src="./assets/linux.svg" alt="Linux" height="40" /></picture>&nbsp;&nbsp;
-<picture><img src="./assets/git.svg" alt="Git" height="40" /></picture>&nbsp;&nbsp;
-<picture><img src="./assets/html5.svg" alt="HTML" height="40" /></picture>&nbsp;&nbsp;
-<picture><img src="./assets/css3.svg" alt="CSS" height="40" /></picture>&nbsp;&nbsp;
-<picture><img src="./assets/javascript.svg" alt="JavaScript" height="40" /></picture>
-</p>
+<picture><img src="./assets/stack-grouped.svg" width="1200" alt="Backend и данные: Python, FastAPI, Django, PostgreSQL. Frontend: HTML, CSS, JavaScript. Инструменты и окружение: Git, Docker, Linux." /></picture>

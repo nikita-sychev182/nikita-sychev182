@@ -102,3 +102,5 @@ foreach ($contact in $contacts) {
 </svg>
 "@
 }
+
+& (Join-Path $PSScriptRoot 'build-stack.ps1')
